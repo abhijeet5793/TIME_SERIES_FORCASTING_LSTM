@@ -4,3 +4,4 @@ Studied and learned literature  to obtain proper optimization techniques with LS
 Obtained a semi-clean data-set, cleaned using libraries such as NUMPY, Pandas.
 Visualised data using Matplotlib, Plotly.
 Used forecasting tools from SciKit learn and Facebook Prophet to prediction
+q
